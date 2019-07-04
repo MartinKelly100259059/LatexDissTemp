@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: DissertationTemplate3.aux
+A level-1 auxiliary file: Abstract.aux
+A level-1 auxiliary file: Acknowledgement.aux
+A level-1 auxiliary file: Instructions.aux
+A level-1 auxiliary file: Ch1.aux
+A level-1 auxiliary file: conclusion.aux
+The style file: apalike.bst
+Database file #1: xbib.bib
+You've used 9 entries,
+            1935 wiz_defined-function locations,
+            544 strings with 4904 characters,
+and the built_in function-call counts, 3364 in all, are:
+= -- 336
+> -- 80
+< -- 9
++ -- 32
+- -- 24
+* -- 251
+:= -- 577
+add.period$ -- 29
+call.type$ -- 9
+change.case$ -- 56
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 141
+empty$ -- 270
+format.name$ -- 35
+if$ -- 684
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 50
+num.names$ -- 27
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 57
+quote$ -- 0
+skip$ -- 112
+stack$ -- 0
+substring$ -- 293
+swap$ -- 20
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 52
+warning$ -- 0
+while$ -- 27
+width$ -- 0
+write$ -- 123
